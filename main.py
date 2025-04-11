@@ -2,7 +2,7 @@
 def greet(name):
     print(f"Hello,{name}!")
 
-greet("Github")
+greet("Everyone")
 def goodbye(name):
     print(f"Goodbye,{name}!")
 goodbye("GitHub")
